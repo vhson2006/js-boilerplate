@@ -1,6 +1,6 @@
 ## Description
 
-[ts-boilerplate](https://github.com/vhson2006/ts-boilerplate) framework Javascript/TypeScript starter repository. Include [NestJS](https://github.com/nestjs/nest) as backend, [Create React App](https://github.com/facebook/create-react-app) as frontend.
+[js-boilerplate](https://github.com/vhson2006/js-boilerplate) framework Javascript/TypeScript starter repository. Include [NestJS](https://github.com/nestjs/nest) as backend, [Create React App](https://github.com/facebook/create-react-app) as frontend.
 
 ## Preapration
 
